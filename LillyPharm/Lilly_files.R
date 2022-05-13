@@ -17,7 +17,7 @@ library(gt)
 library(stringr)
 library(stringi)
 
-my_data<-as.data.frame(read.csv2(file("C:\\Users\\Owner\\Downloads\\mock_data_4table.csv",  encoding="UTF-8"),sep =","), stringsAsFactors=TRUE)
+my_data<-as.data.frame(read.csv2(file("C:/Users/Owner/Documents/GitHub/Passed-Technical-Interviews/LillyPharm/mock_data_4table.csv",  encoding="UTF-8"),sep =","), stringsAsFactors=TRUE)
 test<-my_data %>% spread(trt, result)
 test2<-transform(test, TRT1 = round(as.numeric(TRT1),2), TRT2 = round(as.numeric(TRT2),2), 
                  PBO =round( as.numeric(PBO),2), timepoint=as.factor(timepoint))
