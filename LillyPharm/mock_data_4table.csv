@@ -1,0 +1,403 @@
+"timepointn","timepoint","timepoint2n","timepoint2","trtn","trt","reftrtn","reftrt","analysistype","analysistype2","resulttype","resulttype2","resulttype3","result","round"
+0,"Baseline",NA,"",1,"PBO",NA,"","","","N","","",170,3
+0,"Baseline",NA,"",2,"TRT1",NA,"","","","N","","",190,3
+0,"Baseline",NA,"",3,"TRT2",NA,"","","","N","","",294,3
+0,"Baseline",NA,"",1,"PBO",NA,"","","","Count","","",170,3
+0,"Baseline",NA,"",2,"TRT1",NA,"","","","Count","","",189,3
+0,"Baseline",NA,"",3,"TRT2",NA,"","","","Count","","",289,3
+0,"Baseline",NA,"",1,"PBO",NA,"","","","Mean","","",75.6783800707227,3
+0,"Baseline",NA,"",2,"TRT1",NA,"","","","Mean","","",6.53112689453506,3
+0,"Baseline",NA,"",3,"TRT2",NA,"","","","Mean","","",221.061598539402,3
+0,"Baseline",NA,"",1,"PBO",NA,"","","","Min","","",50,3
+0,"Baseline",NA,"",2,"TRT1",NA,"","","","Min","","",50,3
+0,"Baseline",NA,"",3,"TRT2",NA,"","","","Min","","",50,3
+0,"Baseline",NA,"",1,"PBO",NA,"","","","Median","","",96,3
+0,"Baseline",NA,"",2,"TRT1",NA,"","","","Median","","",98,3
+0,"Baseline",NA,"",3,"TRT2",NA,"","","","Median","","",95,3
+0,"Baseline",NA,"",1,"PBO",NA,"","","","Max","","",100,3
+0,"Baseline",NA,"",2,"TRT1",NA,"","","","Max","","",100,3
+0,"Baseline",NA,"",3,"TRT2",NA,"","","","Max","","",100,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","","Observed","Count","","",167,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","","Observed","Count","","",184,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","","Observed","Count","","",281,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","","Observed","Mean","","",87.4680128176505,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","","Observed","Mean","","",24.0902287261291,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","","Observed","Mean","","",155.07239165691,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","","Observed","Min","","",27,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","","Observed","Min","","",22,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","","Observed","Min","","",30,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","","Observed","Median","","",96,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","","Observed","Median","","",97,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","","Observed","Median","","",97,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","","Observed","Max","","",100,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","","Observed","Max","","",100,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","","Observed","Max","","",100,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","Change from baseline","Observed","Count","","",167,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","Change from baseline","Observed","Count","","",184,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","Change from baseline","Observed","Count","","",281,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","Change from baseline","Observed","Mean","","",-2.80732728485512,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","Change from baseline","Observed","Mean","","",-4.95723507539431,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","Change from baseline","Observed","Mean","","",-0.812372065576764,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","Change from baseline","Observed","Min","","",-47,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","Change from baseline","Observed","Min","","",-54,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","Change from baseline","Observed","Min","","",-41,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","Change from baseline","Observed","Median","","",0,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","Change from baseline","Observed","Median","","",0,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","Change from baseline","Observed","Median","","",0,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","Change from baseline","Observed","Max","","",23,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","Change from baseline","Observed","Max","","",26,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","Change from baseline","Observed","Max","","",28,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","Percent change","%, Observed","Count","","",167,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","Percent change","%, Observed","Count","","",184,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","Percent change","%, Observed","Count","","",281,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","Percent change","%, Observed","Mean","","",-1.11722891398899,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","Percent change","%, Observed","Mean","","",-1.35384245950936,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","Percent change","%, Observed","Mean","","",-1.72749536774623,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","Percent change","%, Observed","Min","","",-34.2164891402174,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","Percent change","%, Observed","Min","","",-49.3940487716261,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","Percent change","%, Observed","Min","","",-119.184091450232,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","Percent change","%, Observed","Median","","",0,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","Percent change","%, Observed","Median","","",0,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","Percent change","%, Observed","Median","","",0,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","Percent change","%, Observed","Max","","",13.6404299725491,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","Percent change","%, Observed","Max","","",31.1914604824404,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","Percent change","%, Observed","Max","","",87.3038125675517,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","Percent change","%, MLOCF","LS Mean","","",-5.54541897193806,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","Percent change","%, MLOCF","Std Err","","",0.213545881578695,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","Percent change","%, MLOCF","LS Mean","","",-1.59579227328936,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","Percent change","%, MLOCF","Std Err","","",1.37506151492284,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","Percent change","%, MLOCF","LS Mean","","",-7.58417624607412,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","Percent change","%, MLOCF","Std Err","","",0.610788906692693,3
+4,"Week 4",3,"Visit 3",1,"PBO",NA,"","Percent change","%, MLOCF","p-value","","",-0.00237003495162122,3
+4,"Week 4",3,"Visit 3",2,"TRT1",NA,"","Percent change","%, MLOCF","p-value","","",0.000949790666788859,3
+4,"Week 4",3,"Visit 3",3,"TRT2",NA,"","Percent change","%, MLOCF","p-value","","",1.19913734852308e-05,3
+4,"Week 4",3,"Visit 3",2,"TRT1",1,"PBO","Percent change","%, MLOCF","Difference","","",-0.183671120844576,3
+4,"Week 4",3,"Visit 3",2,"TRT1",1,"PBO","Percent change","%, MLOCF","Std Err","","",1.07181762550595,3
+4,"Week 4",3,"Visit 3",3,"TRT2",1,"PBO","Percent change","%, MLOCF","Difference","","",0.872502837616025,3
+4,"Week 4",3,"Visit 3",3,"TRT2",1,"PBO","Percent change","%, MLOCF","Std Err","","",1.65049113235863,3
+4,"Week 4",3,"Visit 3",2,"TRT1",1,"PBO","Percent change","%, MLOCF","95% CI Low","","",-7.53778540884017,3
+4,"Week 4",3,"Visit 3",2,"TRT1",1,"PBO","Percent change","%, MLOCF","95% CI High","","",-1.03056267081938,3
+4,"Week 4",3,"Visit 3",3,"TRT2",1,"PBO","Percent change","%, MLOCF","95% CI Low","","",-0.708388143867663,3
+4,"Week 4",3,"Visit 3",3,"TRT2",1,"PBO","Percent change","%, MLOCF","95% CI High","","",0.328673652895136,3
+4,"Week 4",3,"Visit 3",2,"TRT1",1,"PBO","Percent change","%, MLOCF","p-value","","",0.18505380906897,3
+4,"Week 4",3,"Visit 3",3,"TRT2",1,"PBO","Percent change","%, MLOCF","p-value","","",-0.284137292077667,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","","Observed","Count","","",160,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","","Observed","Count","","",180,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","","Observed","Count","","",277,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","","Observed","Mean","","",117.178348866035,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","","Observed","Mean","","",-42.818613569575,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","","Observed","Mean","","",75.9129094356883,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","","Observed","Min","","",7,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","","Observed","Min","","",5,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","","Observed","Min","","",4,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","","Observed","Median","","",148.944071415865,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","","Observed","Median","","",94,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","","Observed","Median","","",92,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","","Observed","Max","","",100,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","","Observed","Max","","",100,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","","Observed","Max","","",100,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","Change from baseline","Observed","Count","","",160,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","Change from baseline","Observed","Count","","",180,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","Change from baseline","Observed","Count","","",277,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","Change from baseline","Observed","Mean","","",-6.08369223948529,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","Change from baseline","Observed","Mean","","",-11.0577379382342,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","Change from baseline","Observed","Mean","","",-7.06972096553975,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","Change from baseline","Observed","Min","","",-84,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","Change from baseline","Observed","Min","","",-72,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","Change from baseline","Observed","Min","","",-96,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","Change from baseline","Observed","Median","","",-1,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","Change from baseline","Observed","Median","","",0,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","Change from baseline","Observed","Median","","",0,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","Change from baseline","Observed","Max","","",16,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","Change from baseline","Observed","Max","","",23,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","Change from baseline","Observed","Max","","",39,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","Percent change","%, Observed","Count","","",160,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","Percent change","%, Observed","Count","","",180,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","Percent change","%, Observed","Count","","",277,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","Percent change","%, Observed","Mean","","",-3.53264924544341,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","Percent change","%, Observed","Mean","","",-13.2461374149753,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","Percent change","%, Observed","Mean","","",-5.37044115831789,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","Percent change","%, Observed","Min","","",-239.205670860891,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","Percent change","%, Observed","Min","","",-91.799091943199,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","Percent change","%, Observed","Min","","",-96,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","Percent change","%, Observed","Median","","",-1,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","Percent change","%, Observed","Median","","",0,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","Percent change","%, Observed","Median","","",0,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","Percent change","%, Observed","Max","","",38.0064614071904,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","Percent change","%, Observed","Max","","",50.3977214083865,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","Percent change","%, Observed","Max","","",-140.184524830298,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","Percent change","%, MLOCF","LS Mean","","",3.6814364065046,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","Percent change","%, MLOCF","Std Err","","",1.01431479734262,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","Percent change","%, MLOCF","LS Mean","","",-10.9367189194085,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","Percent change","%, MLOCF","Std Err","","",-2.27268006538705,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","Percent change","%, MLOCF","LS Mean","","",-19.957577597886,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","Percent change","%, MLOCF","Std Err","","",0.606156095161694,3
+8,"Week 8",4,"Visit 4",1,"PBO",NA,"","Percent change","%, MLOCF","p-value","","",4.33131992460622e-09,3
+8,"Week 8",4,"Visit 4",2,"TRT1",NA,"","Percent change","%, MLOCF","p-value","","",-1.32332235442633e-07,3
+8,"Week 8",4,"Visit 4",3,"TRT2",NA,"","Percent change","%, MLOCF","p-value","","",-3.08647741840719e-11,3
+8,"Week 8",4,"Visit 4",2,"TRT1",1,"PBO","Percent change","%, MLOCF","Difference","","",1.2810831057156,3
+8,"Week 8",4,"Visit 4",2,"TRT1",1,"PBO","Percent change","%, MLOCF","Std Err","","",3.24854425873741,3
+8,"Week 8",4,"Visit 4",3,"TRT2",1,"PBO","Percent change","%, MLOCF","Difference","","",0.129700319171921,3
+8,"Week 8",4,"Visit 4",3,"TRT2",1,"PBO","Percent change","%, MLOCF","Std Err","","",-0.00861652109559563,3
+8,"Week 8",4,"Visit 4",2,"TRT1",1,"PBO","Percent change","%, MLOCF","95% CI Low","","",-4.62840195205494,3
+8,"Week 8",4,"Visit 4",2,"TRT1",1,"PBO","Percent change","%, MLOCF","95% CI High","","",2.97507459070214,3
+8,"Week 8",4,"Visit 4",3,"TRT2",1,"PBO","Percent change","%, MLOCF","95% CI Low","","",-12.6528574195969,3
+8,"Week 8",4,"Visit 4",3,"TRT2",1,"PBO","Percent change","%, MLOCF","95% CI High","","",8.4462630423483,3
+8,"Week 8",4,"Visit 4",2,"TRT1",1,"PBO","Percent change","%, MLOCF","p-value","","",0.914706931858933,3
+8,"Week 8",4,"Visit 4",3,"TRT2",1,"PBO","Percent change","%, MLOCF","p-value","","",0.956981699310369,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","","Observed","Count","","",152,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","","Observed","Count","","",177,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","","Observed","Count","","",269,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","","Observed","Mean","","",92.6526545320019,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","","Observed","Mean","","",22.3527960269753,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","","Observed","Mean","","",119.753068422175,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","","Observed","Min","","",7,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","","Observed","Min","","",0,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","","Observed","Min","","",0,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","","Observed","Median","","",212.058293587328,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","","Observed","Median","","",90,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","","Observed","Median","","",86,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","","Observed","Max","","",100,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","","Observed","Max","","",100,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","","Observed","Max","","",100,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","Change from baseline","Observed","Count","","",152,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","Change from baseline","Observed","Count","","",177,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","Change from baseline","Observed","Count","","",269,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","Change from baseline","Observed","Mean","","",-28.0577699075032,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","Change from baseline","Observed","Mean","","",-1.96357309801201,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","Change from baseline","Observed","Mean","","",7.25167222584665,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","Change from baseline","Observed","Min","","",-84,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","Change from baseline","Observed","Min","","",-80,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","Change from baseline","Observed","Min","","",-87,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","Change from baseline","Observed","Median","","",-3,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","Change from baseline","Observed","Median","","",-1,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","Change from baseline","Observed","Median","","",-2,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","Change from baseline","Observed","Max","","",13,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","Change from baseline","Observed","Max","","",45,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","Change from baseline","Observed","Max","","",47,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","Percent change","%, Observed","Count","","",152,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","Percent change","%, Observed","Count","","",177,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","Percent change","%, Observed","Count","","",269,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","Percent change","%, Observed","Mean","","",-15.7263694473352,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","Percent change","%, Observed","Mean","","",-19.6295911930684,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","Percent change","%, Observed","Mean","","",-36.2667033126176,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","Percent change","%, Observed","Min","","",28.1438378004648,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","Percent change","%, Observed","Min","","",-100,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","Percent change","%, Observed","Min","","",-100,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","Percent change","%, Observed","Median","","",-5.48510169553297,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","Percent change","%, Observed","Median","","",-1,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","Percent change","%, Observed","Median","","",-2,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","Percent change","%, Observed","Max","","",20.5583305848086,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","Percent change","%, Observed","Max","","",179.50543046665,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","Percent change","%, Observed","Max","","",86.2042100186978,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","Percent change","%, MLOCF","LS Mean","","",-10.2126240939326,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","Percent change","%, MLOCF","Std Err","","",-0.332382206185683,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","Percent change","%, MLOCF","LS Mean","","",-6.62424873848376,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","Percent change","%, MLOCF","Std Err","","",1.38452132121264,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","Percent change","%, MLOCF","LS Mean","","",-49.9714241423471,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","Percent change","%, MLOCF","Std Err","","",6.78695712314129,3
+12,"Week 12",5,"Visit 5",1,"PBO",NA,"","Percent change","%, MLOCF","p-value","","",4.99978032309434e-12,3
+12,"Week 12",5,"Visit 5",2,"TRT1",NA,"","Percent change","%, MLOCF","p-value","","",-2.10913730668917e-11,3
+12,"Week 12",5,"Visit 5",3,"TRT2",NA,"","Percent change","%, MLOCF","p-value","","",0,3
+12,"Week 12",5,"Visit 5",2,"TRT1",1,"PBO","Percent change","%, MLOCF","Difference","","",-2.1048565271536,3
+12,"Week 12",5,"Visit 5",2,"TRT1",1,"PBO","Percent change","%, MLOCF","Std Err","","",4.18191416494886,3
+12,"Week 12",5,"Visit 5",3,"TRT2",1,"PBO","Percent change","%, MLOCF","Difference","","",-0.08838034013925,3
+12,"Week 12",5,"Visit 5",3,"TRT2",1,"PBO","Percent change","%, MLOCF","Std Err","","",8.34042478980866,3
+12,"Week 12",5,"Visit 5",2,"TRT1",1,"PBO","Percent change","%, MLOCF","95% CI Low","","",-0.372699342893868,3
+12,"Week 12",5,"Visit 5",2,"TRT1",1,"PBO","Percent change","%, MLOCF","95% CI High","","",8.42794291760259,3
+12,"Week 12",5,"Visit 5",3,"TRT2",1,"PBO","Percent change","%, MLOCF","95% CI Low","","",-19.2919079632367,3
+12,"Week 12",5,"Visit 5",3,"TRT2",1,"PBO","Percent change","%, MLOCF","95% CI High","","",-0.649335662614765,3
+12,"Week 12",5,"Visit 5",2,"TRT1",1,"PBO","Percent change","%, MLOCF","p-value","","",0.566938503050432,3
+12,"Week 12",5,"Visit 5",3,"TRT2",1,"PBO","Percent change","%, MLOCF","p-value","","",-0.0749218264817654,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","","Observed","Count","","",152,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","","Observed","Count","","",168,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","","Observed","Count","","",261,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","","Observed","Mean","","",89.9647472012923,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","","Observed","Mean","","",9.16342674167471,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","","Observed","Mean","","",74.0862595785633,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","","Observed","Min","","",1,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","","Observed","Min","","",0,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","","Observed","Min","","",0,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","","Observed","Median","","",77,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","","Observed","Median","","",88,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","","Observed","Median","","",84,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","","Observed","Max","","",100,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","","Observed","Max","","",100,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","","Observed","Max","","",100,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","Change from baseline","Observed","Count","","",152,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","Change from baseline","Observed","Count","","",168,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","Change from baseline","Observed","Count","","",261,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","Change from baseline","Observed","Mean","","",-13.3271147496499,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","Change from baseline","Observed","Mean","","",2.66028466913856,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","Change from baseline","Observed","Mean","","",-16.7076401244592,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","Change from baseline","Observed","Min","","",-97,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","Change from baseline","Observed","Min","","",-96,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","Change from baseline","Observed","Min","","",-94,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","Change from baseline","Observed","Median","","",-12.9454067343859,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","Change from baseline","Observed","Median","","",-2,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","Change from baseline","Observed","Median","","",-6,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","Change from baseline","Observed","Max","","",14,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","Change from baseline","Observed","Max","","",45,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","Change from baseline","Observed","Max","","",47,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","Percent change","%, Observed","Count","","",152,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","Percent change","%, Observed","Count","","",168,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","Percent change","%, Observed","Count","","",261,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","Percent change","%, Observed","Mean","","",-63.3880057381133,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","Percent change","%, Observed","Mean","","",6.99572435695149,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","Percent change","%, Observed","Mean","","",-15.9862991055227,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","Percent change","%, Observed","Min","","",-213.738958270397,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","Percent change","%, Observed","Min","","",-100,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","Percent change","%, Observed","Min","","",-100,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","Percent change","%, Observed","Median","","",0.879935124128449,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","Percent change","%, Observed","Median","","",-2,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","Percent change","%, Observed","Median","","",-6,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","Percent change","%, Observed","Max","","",-27.4346277485966,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","Percent change","%, Observed","Max","","",5.24433612163809,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","Percent change","%, Observed","Max","","",2.90518014533667,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","Percent change","%, MLOCF","LS Mean","","",-22.8562081608019,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","Percent change","%, MLOCF","Std Err","","",1.60440963003692,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","Percent change","%, MLOCF","LS Mean","","",-22.3352670946133,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","Percent change","%, MLOCF","Std Err","","",1.49011064830228,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","Percent change","%, MLOCF","LS Mean","","",-27.4888216100065,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","Percent change","%, MLOCF","Std Err","","",1.48383471598616,3
+16,"Week 16",6,"Visit 6",1,"PBO",NA,"","Percent change","%, MLOCF","p-value","","",0,3
+16,"Week 16",6,"Visit 6",2,"TRT1",NA,"","Percent change","%, MLOCF","p-value","","",1.09505072326053e-11,3
+16,"Week 16",6,"Visit 6",3,"TRT2",NA,"","Percent change","%, MLOCF","p-value","","",0,3
+16,"Week 16",6,"Visit 6",2,"TRT1",1,"PBO","Percent change","%, MLOCF","Difference","","",0.967505163712206,3
+16,"Week 16",6,"Visit 6",2,"TRT1",1,"PBO","Percent change","%, MLOCF","Std Err","","",4.23524039209432,3
+16,"Week 16",6,"Visit 6",3,"TRT2",1,"PBO","Percent change","%, MLOCF","Difference","","",0.20903374544037,3
+16,"Week 16",6,"Visit 6",3,"TRT2",1,"PBO","Percent change","%, MLOCF","Std Err","","",3.64564568615272,3
+16,"Week 16",6,"Visit 6",2,"TRT1",1,"PBO","Percent change","%, MLOCF","95% CI Low","","",-2.62881942325831,3
+16,"Week 16",6,"Visit 6",2,"TRT1",1,"PBO","Percent change","%, MLOCF","95% CI High","","",-6.93228446849428,3
+16,"Week 16",6,"Visit 6",3,"TRT2",1,"PBO","Percent change","%, MLOCF","95% CI Low","","",-3.51814752940752,3
+16,"Week 16",6,"Visit 6",3,"TRT2",1,"PBO","Percent change","%, MLOCF","95% CI High","","",16.8785465510438,3
+16,"Week 16",6,"Visit 6",2,"TRT1",1,"PBO","Percent change","%, MLOCF","p-value","","",0.440679667730472,3
+16,"Week 16",6,"Visit 6",3,"TRT2",1,"PBO","Percent change","%, MLOCF","p-value","","",0.626173315107373,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","","Observed","Count","","",151,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","","Observed","Count","","",160,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","","Observed","Count","","",251,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","","Observed","Mean","","",-11.3899732193683,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","","Observed","Mean","","",143.304667874879,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","","Observed","Mean","","",68.6045516650691,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","","Observed","Min","","",0,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","","Observed","Min","","",0,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","","Observed","Min","","",0,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","","Observed","Median","","",63,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","","Observed","Median","","",45.7768916438155,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","","Observed","Median","","",77,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","","Observed","Max","","",100,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","","Observed","Max","","",100,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","","Observed","Max","","",100,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","Change from baseline","Observed","Count","","",151,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","Change from baseline","Observed","Count","","",160,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","Change from baseline","Observed","Count","","",251,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","Change from baseline","Observed","Mean","","",-68.1153366386319,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","Change from baseline","Observed","Mean","","",-4.77519913484999,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","Change from baseline","Observed","Mean","","",-28.2948759966914,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","Change from baseline","Observed","Min","","",-98,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","Change from baseline","Observed","Min","","",-100,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","Change from baseline","Observed","Min","","",-100,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","Change from baseline","Observed","Median","","",-13,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","Change from baseline","Observed","Median","","",-7,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","Change from baseline","Observed","Median","","",-10,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","Change from baseline","Observed","Max","","",17,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","Change from baseline","Observed","Max","","",45,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","Change from baseline","Observed","Max","","",47,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","Percent change","%, Observed","Count","","",151,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","Percent change","%, Observed","Count","","",160,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","Percent change","%, Observed","Count","","",251,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","Percent change","%, Observed","Mean","","",-75.1572252248009,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","Percent change","%, Observed","Mean","","",-42.6991623108443,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","Percent change","%, Observed","Mean","","",-19.1553453814736,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","Percent change","%, Observed","Min","","",-100,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","Percent change","%, Observed","Min","","",-100,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","Percent change","%, Observed","Min","","",-100,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","Percent change","%, Observed","Median","","",-10.2632099396004,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","Percent change","%, Observed","Median","","",-11.6350020256482,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","Percent change","%, Observed","Median","","",-17.4632436299948,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","Percent change","%, Observed","Max","","",22.2004176994724,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","Percent change","%, Observed","Max","","",189.691279548274,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","Percent change","%, Observed","Max","","",82.8413132218996,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","Percent change","%, MLOCF","LS Mean","","",-8.52331368833178,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","Percent change","%, MLOCF","Std Err","","",4.72627275855077,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","Percent change","%, MLOCF","LS Mean","","",28.2426993967234,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","Percent change","%, MLOCF","Std Err","","",4.10245870179629,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","Percent change","%, MLOCF","LS Mean","","",-37.275421433383,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","Percent change","%, MLOCF","Std Err","","",2.07162993508524,3
+24,"Week 24",7,"Visit 7",1,"PBO",NA,"","Percent change","%, MLOCF","p-value","","",0,3
+24,"Week 24",7,"Visit 7",2,"TRT1",NA,"","Percent change","%, MLOCF","p-value","","",0,3
+24,"Week 24",7,"Visit 7",3,"TRT2",NA,"","Percent change","%, MLOCF","p-value","","",0,3
+24,"Week 24",7,"Visit 7",2,"TRT1",1,"PBO","Percent change","%, MLOCF","Difference","","",-0.578503903709088,3
+24,"Week 24",7,"Visit 7",2,"TRT1",1,"PBO","Percent change","%, MLOCF","Std Err","","",2.2682834193756,3
+24,"Week 24",7,"Visit 7",3,"TRT2",1,"PBO","Percent change","%, MLOCF","Difference","","",9.0222746816192,3
+24,"Week 24",7,"Visit 7",3,"TRT2",1,"PBO","Percent change","%, MLOCF","Std Err","","",0.883971603048332,3
+24,"Week 24",7,"Visit 7",2,"TRT1",1,"PBO","Percent change","%, MLOCF","95% CI Low","","",3.22806647307187,3
+24,"Week 24",7,"Visit 7",2,"TRT1",1,"PBO","Percent change","%, MLOCF","95% CI High","","",22.2921904341478,3
+24,"Week 24",7,"Visit 7",3,"TRT2",1,"PBO","Percent change","%, MLOCF","95% CI Low","","",-1.61056307746052,3
+24,"Week 24",7,"Visit 7",3,"TRT2",1,"PBO","Percent change","%, MLOCF","95% CI High","","",5.04097748540323,3
+24,"Week 24",7,"Visit 7",2,"TRT1",1,"PBO","Percent change","%, MLOCF","p-value","","",-0.0405424797181765,3
+24,"Week 24",7,"Visit 7",3,"TRT2",1,"PBO","Percent change","%, MLOCF","p-value","","",0.298091911899698,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","","Observed","Count","","",149,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","","Observed","Count","","",154,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","","Observed","Count","","",245,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","","Observed","Mean","","",93.5110729565053,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","","Observed","Mean","","",26.0475635270441,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","","Observed","Mean","","",22.7776755561933,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","","Observed","Min","","",0,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","","Observed","Min","","",0,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","","Observed","Min","","",0,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","","Observed","Median","","",49,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","","Observed","Median","","",79,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","","Observed","Median","","",65,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","","Observed","Max","","",100,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","","Observed","Max","","",100,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","","Observed","Max","","",100,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","Change from baseline","Observed","Count","","",149,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","Change from baseline","Observed","Count","","",154,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","Change from baseline","Observed","Count","","",245,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","Change from baseline","Observed","Mean","","",-63.7012768678278,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","Change from baseline","Observed","Mean","","",-18.1526074652383,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","Change from baseline","Observed","Mean","","",-22.92268182218,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","Change from baseline","Observed","Min","","",-100,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","Change from baseline","Observed","Min","","",-100,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","Change from baseline","Observed","Min","","",-100,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","Change from baseline","Observed","Median","","",-17,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","Change from baseline","Observed","Median","","",-2.43244137022201,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","Change from baseline","Observed","Median","","",-18,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","Change from baseline","Observed","Max","","",42,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","Change from baseline","Observed","Max","","",45,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","Change from baseline","Observed","Max","","",47,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","Percent change","%, Observed","Count","","",149,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","Percent change","%, Observed","Count","","",154,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","Percent change","%, Observed","Count","","",245,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","Percent change","%, Observed","Mean","","",-71.0221754193121,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","Percent change","%, Observed","Mean","","",-0.174932375469874,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","Percent change","%, Observed","Mean","","",-62.573814345623,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","Percent change","%, Observed","Min","","",-100,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","Percent change","%, Observed","Min","","",-100,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","Percent change","%, Observed","Min","","",-100,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","Percent change","%, Observed","Median","","",-25,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","Percent change","%, Observed","Median","","",-7,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","Percent change","%, Observed","Median","","",-23,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","Percent change","%, Observed","Max","","",137.889992976382,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","Percent change","%, Observed","Max","","",43.5599234189002,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","Percent change","%, Observed","Max","","",163.916518386787,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","Percent change","%, MLOCF","LS Mean","","",-67.8645707952717,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","Percent change","%, MLOCF","Std Err","","",5.40005214536377,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","Percent change","%, MLOCF","LS Mean","","",-80.3607758110162,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","Percent change","%, MLOCF","Std Err","","",-3.1614145644573,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","Percent change","%, MLOCF","LS Mean","","",5.06419712035681,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","Percent change","%, MLOCF","Std Err","","",-1.11336253092464,3
+36,"Week 36",8,"Visit 8",1,"PBO",NA,"","Percent change","%, MLOCF","p-value","","",0,3
+36,"Week 36",8,"Visit 8",2,"TRT1",NA,"","Percent change","%, MLOCF","p-value","","",0,3
+36,"Week 36",8,"Visit 8",3,"TRT2",NA,"","Percent change","%, MLOCF","p-value","","",0,3
+36,"Week 36",8,"Visit 8",2,"TRT1",1,"PBO","Percent change","%, MLOCF","Difference","","",8.86422218814427,3
+36,"Week 36",8,"Visit 8",2,"TRT1",1,"PBO","Percent change","%, MLOCF","Std Err","","",10.832392067924,3
+36,"Week 36",8,"Visit 8",3,"TRT2",1,"PBO","Percent change","%, MLOCF","Difference","","",9.24253500562114,3
+36,"Week 36",8,"Visit 8",3,"TRT2",1,"PBO","Percent change","%, MLOCF","Std Err","","",5.72823826571254,3
+36,"Week 36",8,"Visit 8",2,"TRT1",1,"PBO","Percent change","%, MLOCF","95% CI Low","","",-1.20017962311954,3
+36,"Week 36",8,"Visit 8",2,"TRT1",1,"PBO","Percent change","%, MLOCF","95% CI High","","",13.5293342878528,3
+36,"Week 36",8,"Visit 8",3,"TRT2",1,"PBO","Percent change","%, MLOCF","95% CI Low","","",-6.03260979437045,3
+36,"Week 36",8,"Visit 8",3,"TRT2",1,"PBO","Percent change","%, MLOCF","95% CI High","","",15.1517199935259,3
+36,"Week 36",8,"Visit 8",2,"TRT1",1,"PBO","Percent change","%, MLOCF","p-value","","",0.016863292592011,3
+36,"Week 36",8,"Visit 8",3,"TRT2",1,"PBO","Percent change","%, MLOCF","p-value","","",0.261621630910024,3
