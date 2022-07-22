@@ -8,14 +8,14 @@
   library(colorspace)
   library(DT)
   
-  poi = readRDS('C:/Users/Owner/Documents/poi_in_location.rds')
+  poi = readRDS('C:/Users/Owner/Documents/GitHub/Passed-Technical-Interviews/RCLCO/poi_in_location.rds')
   poi<-poi %>%
     mutate(long = unlist(map_dbl(poi$geometry,1)),
            lat = unlist(map_dbl(poi$geometry,2)))%>%
     mutate_if(is.character, utf8::utf8_encode)
   my_sf <- st_as_sf(poi, xcol="long", ycol="lat", crs = 4326)
   
-  tracts_demo <- readRDS('C:/Users/Owner/Documents/census_blocks.rds')
+  tracts_demo <- readRDS('C:/Users/Owner/Documents/GitHub/Passed-Technical-Interviews/RCLCO/census_blocks.rds')
   
   pal <- colorNumeric(
     palette = "YlOrRd",
